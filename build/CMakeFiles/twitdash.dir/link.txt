@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread CMakeFiles/twitdash.dir/src/dashboard.cpp.o -o twitdash  -L/usr/lib/x86_64-linux-gnu -pthread -lwx_gtk2u_core-3.0 -lwx_baseu-3.0 
