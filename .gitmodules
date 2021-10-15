@@ -2,3 +2,6 @@
 [submodule "Twitter-API-C-Library"]
 	path = Twitter-API-C-Library
 	url = https://github.com/joelcappelli/Twitter-API-C-Library
+[submodule "wxWidgets"]
+	path = wxWidgets
+	url = https://github.com/wxWidgets/wxWidgets.git
